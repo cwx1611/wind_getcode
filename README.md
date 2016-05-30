@@ -1,1 +1,1 @@
-# wind_getdode
+# wind_getcode
